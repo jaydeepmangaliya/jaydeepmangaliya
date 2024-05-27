@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeepmangaliya&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepmangaliya" /> </p>
 
 
-- 🌱 I’m currently learning **android devlopment ,**
+- 🌱 I’m currently learning **android devlopment**
 
 - 📫 How to reach me **jaydeepmagaliya@gmail.com**
 
